@@ -1,0 +1,7 @@
+.directory
+*.o
+*.stash
+moc_*.cpp
+ui_*.h
+Makefile
+moc_*.h
