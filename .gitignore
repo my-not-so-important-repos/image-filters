@@ -5,3 +5,4 @@ moc_*.cpp
 ui_*.h
 Makefile
 moc_*.h
+*.pro.user
