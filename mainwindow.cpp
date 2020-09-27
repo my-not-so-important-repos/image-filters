@@ -153,7 +153,7 @@ void MainWindow::transformPaletted(int numColors)
 
 
             QColor closerColor;
-            double distanceOfCloserColor = 9999999999999999.0;
+            double distanceOfCloserColor = std::numeric_limits<double>::max();
 
             // para cara item do vetor
 
