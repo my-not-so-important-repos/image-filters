@@ -13,8 +13,9 @@ This program was made for my Computer Graphics classes.
 - Paletted
 
 ## How to build?
-- Have Qt5 installed, then:
-'''sh
+Have Qt5 installed, then:
+```sh
 qmake
 make
-'''
+```
+🤙
